@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/addtocart-task/static/css/main.8c9faa9e.css",
+    "main.js": "/addtocart-task/static/js/main.35cdf863.js",
+    "static/js/787.5238f572.chunk.js": "/addtocart-task/static/js/787.5238f572.chunk.js",
+    "index.html": "/addtocart-task/index.html",
+    "main.8c9faa9e.css.map": "/addtocart-task/static/css/main.8c9faa9e.css.map",
+    "main.35cdf863.js.map": "/addtocart-task/static/js/main.35cdf863.js.map",
+    "787.5238f572.chunk.js.map": "/addtocart-task/static/js/787.5238f572.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c9faa9e.css",
+    "static/js/main.35cdf863.js"
+  ]
+}
